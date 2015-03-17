@@ -1,0 +1,2 @@
+maleszewski@virtual.com
+//zle uzyta komenda w data.txt 
